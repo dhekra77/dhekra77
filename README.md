@@ -1,7 +1,8 @@
- Hi there , I'm Dhekra Hasnaoui👋
+# Hi there , I'm Dhekra Hasnaoui👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhekra-hasnaoui-b8480a17a/)
 
 
-I'm a Full stack web developer and soft skills trainer!!
+##I'm a Full stack web developer and soft skills trainer!!
 
 Here are some ideas to get you started:
 
