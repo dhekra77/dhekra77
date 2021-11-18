@@ -16,7 +16,7 @@
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to speack with my mirror 🤣 
-- <br/>
+ <br/>
 
 ### Languages and Tools:
 <img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
@@ -37,9 +37,18 @@
 <img align="left" alt="MongoDb" width="26px" src="https://www.pxpng.com/public/uploads/small/116089896921stskszgltblypypsqtf2tceem6ndptuimj1a8lgmst7met3bp8sxtp79jy27qyeaoratttbfc7zfmvpa7m2tmrej2oifkfl5apn.png" />
 <img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-
 <img align="left" alt="Mysql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <br />
 <br />
+### Talk with me, 
+[<img align="left" alt="dhekra77 | Facebook" width="22px" src="https://ca4lesssoda.org/wp-content/uploads/2014/12/Facebook-Icon-Black.png" />][facebook]
+[<img align="left" alt="dhekra77 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+<br />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dhekra77&theme=tokyonight&show_icons=true" alt="kalavhan" /></p>
+
+
+[instagram]: https://www.instagram.com/dhekrahasnaoui/?hl=fr
+[linkedin]: https://www.linkedin.com/in/dhekra-hasnaoui-b8480a17a/
