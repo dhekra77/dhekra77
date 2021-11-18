@@ -41,14 +41,21 @@
 <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <br />
 <br />
-### Talk with me, 
-[<img align="left" alt="dhekra77 | Facebook" width="22px" src="https://ca4lesssoda.org/wp-content/uploads/2014/12/Facebook-Icon-Black.png" />][facebook]
+### Talk with me, I am kinda awesome:
+[<img align="left" alt="dhekra77 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="dhekra77 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 <br />
 <br />
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dhekra77&theme=tokyonight&show_icons=true" alt="kalavhan" /></p>
+<details>
+  <summary>:zap: Most Used Languages</summary>
 
+<img align="left" alt="Yasmine's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhekra77&theme=tokyonight" />
+
+</details>
 
 [instagram]: https://www.instagram.com/dhekrahasnaoui/?hl=fr
 [linkedin]: https://www.linkedin.com/in/dhekra-hasnaoui-b8480a17a/
